@@ -1,7 +1,7 @@
 # responsive-gallery
 A template for a super basic responsive gallery for various TTBOOK thingies. It assumes you're hosting all of your images or other assets on an S3 bucket, and you've gathered the direct links to each image.
 
-[Based on flexbox guide here.](https://www.taniarascia.com/how-to-build-a-responsive-image-gallery-with-flexbox/)
+[Based on responsive gallery guide here.](https://www.taniarascia.com/how-to-build-a-responsive-image-gallery-with-flexbox/)
 
 [this guide to "object-fit" was also super helpful](https://alligator.io/css/cropping-images-object-fit/)
 
