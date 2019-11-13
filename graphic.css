@@ -1,18 +1,18 @@
 .container {
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 800px;
   padding: 0 1rem;
 }
 
 .responsive-image {
   max-width: 100%;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .cell img {
   display: block;
-  width: 200px;
-  height: 350px;
+  width: 300x;
+  height: 320px;
 }
 
 
@@ -27,9 +27,9 @@
   }
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 800px) {
   .cell {
-    width: calc(100% / 3);
+    width: calc(100% / 4);
   }
 }
 
