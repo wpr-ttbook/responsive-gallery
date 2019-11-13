@@ -1,6 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 780px;
   padding: 0 1rem;
 }
 
@@ -16,7 +16,7 @@
 }
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 600px) {
   .grid {
     display: flex;
     flex-wrap: wrap;
@@ -27,7 +27,7 @@
   }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 780px) {
   .cell {
     width: calc(100% / 3);
   }
