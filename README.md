@@ -3,6 +3,8 @@ A template for a super basic responsive gallery for various TTBOOK thingies. It 
 
 [Based on flexbox guide here.](https://www.taniarascia.com/how-to-build-a-responsive-image-gallery-with-flexbox/)
 
+[this guide to "object-fit" was also super helpful](https://alligator.io/css/cropping-images-object-fit/)
+
 This was designed as a workaround for not having direct CSS control for our base website. The stylesheet and HTML are hosted here via Github pages; the idea is to embed a basic gallery using the iFrame below.
 
 <iframe src="https://wpr-ttbook.github.io/responsive-gallery/"></iframe>
