@@ -16,6 +16,14 @@
   margin: 0 auto;
 }
 
+.cell_1x1 img {
+  display: block;
+  width: 300x;
+  height: 300px;
+  margin: 0 auto;
+}
+
+
 
 @media screen and (min-width: 600px) {
   .grid {
@@ -30,7 +38,7 @@
 
 @media screen and (min-width: 780px) {
   .cell {
-    width: calc(100% / 3);
+    width: calc(100% / 2);
   }
 }
 
